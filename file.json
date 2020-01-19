@@ -1,0 +1,34 @@
+{
+  "Company" : [
+    {
+      "name": "Mary's Place",
+      "need": "83",
+      "motto": "Every kid needs a place they can call home",
+      "need": ["food", "crafts", "clothing"]
+    },
+    {
+      "name": "YMCA",
+      "need": "52",
+      "motto": "Where people thrive together",
+      "need": ["food", "clothing", "books"]
+    },
+    {
+      "name": "Seattle Public Library",
+      "need": "95",
+      "motto": "Knowledge comes from the books",
+      "need": ["books"]
+    },
+    {
+      "name": "Capitol Hill Church",
+      "need": "26",
+      "motto": "The place where community thrives",
+      "need": ["books", "clothing"]
+    },
+    {
+      "name": "AFE",
+      "need": "83",
+      "motto": "Kids need an education, no matter what cost it comes at",
+      "need": ["food", "crafts"]
+    }
+  ]
+}
